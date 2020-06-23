@@ -1,2 +1,0 @@
-# LaundryAppTasks
-Laundry App Tasks
